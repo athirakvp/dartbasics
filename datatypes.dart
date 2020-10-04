@@ -3,7 +3,7 @@ void main() {
   double d = 12.5;
   bool flag=true;
   String n = "a sample string";
-  //int
+  //printing int
     print('value of a - $a');
   //double
     print('value of d - $d');
@@ -12,3 +12,4 @@ void main() {
   //string
     print ("content in string is-$n");
   }
+
